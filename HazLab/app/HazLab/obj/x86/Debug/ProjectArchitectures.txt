@@ -1,0 +1,2 @@
+C:\Users\crist\Desktop\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\crist\Desktop\app\HazLab\HazLab.csproj;x86
